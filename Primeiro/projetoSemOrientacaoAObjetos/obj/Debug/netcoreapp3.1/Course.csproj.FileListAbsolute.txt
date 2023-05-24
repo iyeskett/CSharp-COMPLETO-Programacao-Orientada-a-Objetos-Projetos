@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\projetoSemOrientacaoAObjetos\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

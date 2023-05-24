@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\bin\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\bin\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\bin\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\bin\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\bin\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\bin\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.genruntimeconfig.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\09AulaDateTimeKindEPadraoISO8601\obj\Debug\netcoreapp3.1\09AulaDateTimeKindEPadraoISO8601.csproj.AssemblyReference.cache

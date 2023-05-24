@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\bin\Debug\netcoreapp3.1\Produtos04Encapsulamento.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\bin\Debug\netcoreapp3.1\Produtos04Encapsulamento.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\bin\Debug\netcoreapp3.1\Produtos04Encapsulamento.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\bin\Debug\netcoreapp3.1\Produtos04Encapsulamento.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\bin\Debug\netcoreapp3.1\Produtos04Encapsulamento.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\bin\Debug\netcoreapp3.1\Produtos04Encapsulamento.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos04Encapsulamento\obj\Debug\netcoreapp3.1\Produtos04Encapsulamento.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\bin\Debug\netcoreapp3.1\exercicioResolvidoMatriz.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\bin\Debug\netcoreapp3.1\exercicioResolvidoMatriz.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\bin\Debug\netcoreapp3.1\exercicioResolvidoMatriz.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\bin\Debug\netcoreapp3.1\exercicioResolvidoMatriz.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\bin\Debug\netcoreapp3.1\exercicioResolvidoMatriz.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\bin\Debug\netcoreapp3.1\exercicioResolvidoMatriz.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioResolvidoMatriz\obj\Debug\netcoreapp3.1\exercicioResolvidoMatriz.genruntimeconfig.cache

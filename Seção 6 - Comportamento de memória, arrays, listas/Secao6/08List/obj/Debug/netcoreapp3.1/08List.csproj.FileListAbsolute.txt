@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\bin\Debug\netcoreapp3.1\08List.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\bin\Debug\netcoreapp3.1\08List.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\bin\Debug\netcoreapp3.1\08List.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\bin\Debug\netcoreapp3.1\08List.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\bin\Debug\netcoreapp3.1\08List.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\bin\Debug\netcoreapp3.1\08List.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.genruntimeconfig.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 6 - Comportamento de memória, arrays, listas\Secao6\08List\obj\Debug\netcoreapp3.1\08List.csproj.AssemblyReference.cache

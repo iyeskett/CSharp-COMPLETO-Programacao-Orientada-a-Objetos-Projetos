@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\bin\Debug\netcoreapp3.1\aulaMatrizes.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\bin\Debug\netcoreapp3.1\aulaMatrizes.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\bin\Debug\netcoreapp3.1\aulaMatrizes.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\bin\Debug\netcoreapp3.1\aulaMatrizes.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\bin\Debug\netcoreapp3.1\aulaMatrizes.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\bin\Debug\netcoreapp3.1\aulaMatrizes.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaMatrizes\obj\Debug\netcoreapp3.1\aulaMatrizes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\bin\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\bin\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\bin\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\bin\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\bin\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\bin\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\01AulaInferenciaDeTiposPalavraVar\obj\Debug\netcoreapp3.1\01AulaInferenciaDeTiposPalavraVar.genruntimeconfig.cache

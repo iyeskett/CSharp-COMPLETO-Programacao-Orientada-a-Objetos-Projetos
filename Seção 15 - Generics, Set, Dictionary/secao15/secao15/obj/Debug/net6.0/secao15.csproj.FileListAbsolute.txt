@@ -1,0 +1,15 @@
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\bin\Debug\net6.0\secao15.exe
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\bin\Debug\net6.0\secao15.deps.json
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\bin\Debug\net6.0\secao15.runtimeconfig.json
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\bin\Debug\net6.0\secao15.dll
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\bin\Debug\net6.0\secao15.pdb
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.csproj.AssemblyReference.cache
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.AssemblyInfoInputs.cache
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.AssemblyInfo.cs
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.csproj.CoreCompileInputs.cache
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.dll
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\refint\secao15.dll
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.pdb
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\secao15.genruntimeconfig.cache
+F:\workspace\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 15 - Generics, Set, Dictionary\secao15\secao15\obj\Debug\net6.0\ref\secao15.dll

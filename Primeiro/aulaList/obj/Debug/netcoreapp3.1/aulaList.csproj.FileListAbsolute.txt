@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\bin\Debug\netcoreapp3.1\aulaList.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\bin\Debug\netcoreapp3.1\aulaList.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\bin\Debug\netcoreapp3.1\aulaList.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\bin\Debug\netcoreapp3.1\aulaList.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\bin\Debug\netcoreapp3.1\aulaList.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\bin\Debug\netcoreapp3.1\aulaList.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.genruntimeconfig.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\aulaList\obj\Debug\netcoreapp3.1\aulaList.csproj.AssemblyReference.cache

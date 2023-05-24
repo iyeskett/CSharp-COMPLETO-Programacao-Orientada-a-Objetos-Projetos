@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\bin\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\bin\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\bin\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\bin\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\bin\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\bin\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\02AulaSintaxeAlternativaSwitchCase\obj\Debug\netcoreapp3.1\02AulaSintaxeAlternativaSwitchCase.genruntimeconfig.cache

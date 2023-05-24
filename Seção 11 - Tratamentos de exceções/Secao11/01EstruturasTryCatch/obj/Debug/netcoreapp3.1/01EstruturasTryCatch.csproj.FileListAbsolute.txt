@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\bin\Debug\netcoreapp3.1\01EstruturasTryCatch.exe
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\bin\Debug\netcoreapp3.1\01EstruturasTryCatch.deps.json
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\bin\Debug\netcoreapp3.1\01EstruturasTryCatch.runtimeconfig.json
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\bin\Debug\netcoreapp3.1\01EstruturasTryCatch.runtimeconfig.dev.json
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\bin\Debug\netcoreapp3.1\01EstruturasTryCatch.dll
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\bin\Debug\netcoreapp3.1\01EstruturasTryCatch.pdb
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.AssemblyInfo.cs
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.dll
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.pdb
+C:\Users\felipe.mello\source\repos\Secao11\01EstruturasTryCatch\obj\Debug\netcoreapp3.1\01EstruturasTryCatch.genruntimeconfig.cache

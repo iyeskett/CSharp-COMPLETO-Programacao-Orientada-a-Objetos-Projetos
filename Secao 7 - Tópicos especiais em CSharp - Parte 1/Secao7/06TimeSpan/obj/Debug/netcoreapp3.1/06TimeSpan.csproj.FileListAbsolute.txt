@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\bin\Debug\netcoreapp3.1\06TimeSpan.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\bin\Debug\netcoreapp3.1\06TimeSpan.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\bin\Debug\netcoreapp3.1\06TimeSpan.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\bin\Debug\netcoreapp3.1\06TimeSpan.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\bin\Debug\netcoreapp3.1\06TimeSpan.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\bin\Debug\netcoreapp3.1\06TimeSpan.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Secao 7 - Tópicos especiais em CSharp - Parte 1\Secao7\06TimeSpan\obj\Debug\netcoreapp3.1\06TimeSpan.genruntimeconfig.cache

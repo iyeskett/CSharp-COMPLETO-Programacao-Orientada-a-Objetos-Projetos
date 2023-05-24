@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioDeFixacaoStatic\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoStatic.genruntimeconfig.cache

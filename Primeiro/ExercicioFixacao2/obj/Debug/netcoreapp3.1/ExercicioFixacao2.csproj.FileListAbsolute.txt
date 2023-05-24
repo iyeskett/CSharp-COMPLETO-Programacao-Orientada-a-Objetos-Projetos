@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\bin\Debug\netcoreapp3.1\ExercicioFixacao2.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\bin\Debug\netcoreapp3.1\ExercicioFixacao2.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\bin\Debug\netcoreapp3.1\ExercicioFixacao2.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\bin\Debug\netcoreapp3.1\ExercicioFixacao2.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\bin\Debug\netcoreapp3.1\ExercicioFixacao2.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\bin\Debug\netcoreapp3.1\ExercicioFixacao2.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.genruntimeconfig.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\ExercicioFixacao2\obj\Debug\netcoreapp3.1\ExercicioFixacao2.csproj.AssemblyReference.cache

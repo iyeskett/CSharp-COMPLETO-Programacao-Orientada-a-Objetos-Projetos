@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\bin\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\bin\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\bin\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\bin\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\bin\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\bin\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoVetores\obj\Debug\netcoreapp3.1\exercicioDeFixacaoVetores.genruntimeconfig.cache

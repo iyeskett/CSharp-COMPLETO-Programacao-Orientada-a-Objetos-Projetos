@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\bin\Debug\netcoreapp3.1\Produtos03.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\bin\Debug\netcoreapp3.1\Produtos03.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\bin\Debug\netcoreapp3.1\Produtos03.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\bin\Debug\netcoreapp3.1\Produtos03.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\bin\Debug\netcoreapp3.1\Produtos03.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\bin\Debug\netcoreapp3.1\Produtos03.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos03\obj\Debug\netcoreapp3.1\Produtos03.genruntimeconfig.cache

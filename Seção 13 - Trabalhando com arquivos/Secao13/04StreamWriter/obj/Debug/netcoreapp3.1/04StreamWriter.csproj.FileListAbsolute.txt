@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\bin\Debug\netcoreapp3.1\04StreamWriter.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\bin\Debug\netcoreapp3.1\04StreamWriter.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\bin\Debug\netcoreapp3.1\04StreamWriter.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\bin\Debug\netcoreapp3.1\04StreamWriter.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\bin\Debug\netcoreapp3.1\04StreamWriter.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\bin\Debug\netcoreapp3.1\04StreamWriter.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\04StreamWriter\obj\Debug\netcoreapp3.1\04StreamWriter.genruntimeconfig.cache

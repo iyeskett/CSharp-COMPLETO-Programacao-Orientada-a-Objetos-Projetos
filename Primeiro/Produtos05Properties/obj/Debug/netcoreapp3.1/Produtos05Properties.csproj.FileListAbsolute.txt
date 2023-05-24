@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\bin\Debug\netcoreapp3.1\Produtos05Properties.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\bin\Debug\netcoreapp3.1\Produtos05Properties.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\bin\Debug\netcoreapp3.1\Produtos05Properties.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\bin\Debug\netcoreapp3.1\Produtos05Properties.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\bin\Debug\netcoreapp3.1\Produtos05Properties.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\bin\Debug\netcoreapp3.1\Produtos05Properties.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos05Properties\obj\Debug\netcoreapp3.1\Produtos05Properties.genruntimeconfig.cache

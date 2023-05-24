@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\bin\Debug\netcoreapp3.1\03UsingBlock.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\bin\Debug\netcoreapp3.1\03UsingBlock.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\bin\Debug\netcoreapp3.1\03UsingBlock.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\bin\Debug\netcoreapp3.1\03UsingBlock.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\bin\Debug\netcoreapp3.1\03UsingBlock.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\bin\Debug\netcoreapp3.1\03UsingBlock.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\03UsingBlock\obj\Debug\netcoreapp3.1\03UsingBlock.genruntimeconfig.cache

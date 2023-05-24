@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\bin\Debug\netcoreapp3.1\06Path.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\bin\Debug\netcoreapp3.1\06Path.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\bin\Debug\netcoreapp3.1\06Path.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\bin\Debug\netcoreapp3.1\06Path.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\bin\Debug\netcoreapp3.1\06Path.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\bin\Debug\netcoreapp3.1\06Path.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\New CSharp COMPLETO Programação Orientada a Objetos\Seção 13 - Trabalhando com arquivos\Secao13\06Path\obj\Debug\netcoreapp3.1\06Path.genruntimeconfig.cache

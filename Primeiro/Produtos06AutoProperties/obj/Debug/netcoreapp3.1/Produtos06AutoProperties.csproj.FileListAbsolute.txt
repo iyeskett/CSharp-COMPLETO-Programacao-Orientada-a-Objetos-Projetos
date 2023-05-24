@@ -1,0 +1,13 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\bin\Debug\netcoreapp3.1\Produtos06AutoProperties.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\bin\Debug\netcoreapp3.1\Produtos06AutoProperties.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\bin\Debug\netcoreapp3.1\Produtos06AutoProperties.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\bin\Debug\netcoreapp3.1\Produtos06AutoProperties.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\bin\Debug\netcoreapp3.1\Produtos06AutoProperties.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\bin\Debug\netcoreapp3.1\Produtos06AutoProperties.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\Produtos06AutoProperties\obj\Debug\netcoreapp3.1\Produtos06AutoProperties.genruntimeconfig.cache

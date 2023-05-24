@@ -1,0 +1,14 @@
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\bin\Debug\netcoreapp3.1\exercicioDeFixacaoList.exe
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\bin\Debug\netcoreapp3.1\exercicioDeFixacaoList.deps.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\bin\Debug\netcoreapp3.1\exercicioDeFixacaoList.runtimeconfig.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\bin\Debug\netcoreapp3.1\exercicioDeFixacaoList.runtimeconfig.dev.json
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\bin\Debug\netcoreapp3.1\exercicioDeFixacaoList.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\bin\Debug\netcoreapp3.1\exercicioDeFixacaoList.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.csproj.AssemblyReference.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.AssemblyInfoInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.AssemblyInfo.cs
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.csproj.CoreCompileInputs.cache
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.dll
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.pdb
+C:\Users\felipe.mello\Desktop\aulas udemy\CSharp COMPLETO Programação Orientada a Objetos\Primeiro\exercicioDeFixacaoList\obj\Debug\netcoreapp3.1\exercicioDeFixacaoList.genruntimeconfig.cache
