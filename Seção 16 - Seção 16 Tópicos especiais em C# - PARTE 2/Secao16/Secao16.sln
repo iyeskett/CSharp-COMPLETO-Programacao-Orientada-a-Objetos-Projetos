@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao16", "Secao16\Secao16.csproj", "{8460264D-F09E-4368-ACE2-C8FE231B8639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{228560B5-420F-4001-9575-DD99480789C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8460264D-F09E-4368-ACE2-C8FE231B8639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8460264D-F09E-4368-ACE2-C8FE231B8639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8460264D-F09E-4368-ACE2-C8FE231B8639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8460264D-F09E-4368-ACE2-C8FE231B8639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228560B5-420F-4001-9575-DD99480789C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228560B5-420F-4001-9575-DD99480789C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228560B5-420F-4001-9575-DD99480789C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228560B5-420F-4001-9575-DD99480789C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94706E0-B9E3-4D3B-A387-958C53E79524}
+	EndGlobalSection
+EndGlobal
