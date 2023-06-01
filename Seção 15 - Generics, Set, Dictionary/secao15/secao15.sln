@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComoColecoesHashComparamIgu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvido", "ExercicioResolvido\ExercicioResolvido.csproj", "{A29828BE-5C86-44EA-977B-E332946F5FE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto", "ExercicioProposto\ExercicioProposto.csproj", "{CBE57C39-F75F-4D72-B81F-7ECD187967EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE57C39-F75F-4D72-B81F-7ECD187967EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE57C39-F75F-4D72-B81F-7ECD187967EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE57C39-F75F-4D72-B81F-7ECD187967EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE57C39-F75F-4D72-B81F-7ECD187967EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
