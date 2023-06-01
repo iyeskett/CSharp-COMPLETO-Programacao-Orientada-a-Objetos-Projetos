@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generics2", "generics2\gene
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "restricoesDeGenerics", "restricoesDeGenerics\restricoesDeGenerics.csproj", "{19A2350A-10E9-4A62-9E90-42C19A5A204C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCode_Equals", "GetHashCode_Equals\GetHashCode_Equals.csproj", "{DEB462BE-FDF2-4BB0-8A72-50F4BCD30441}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHashCode_Equals", "GetHashCode_Equals\GetHashCode_Equals.csproj", "{DEB462BE-FDF2-4BB0-8A72-50F4BCD30441}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetESortedSet", "HashSetESortedSet\HashSetESortedSet.csproj", "{67D7AEC1-74DD-49DB-B95E-BD6667AF012D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSetESortedSet", "HashSetESortedSet\HashSetESortedSet.csproj", "{67D7AEC1-74DD-49DB-B95E-BD6667AF012D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetESortedSet2", "HashSetESortedSet2\HashSetESortedSet2.csproj", "{2B472992-CECA-456A-9A07-796ED3FFF258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSetESortedSet2", "HashSetESortedSet2\HashSetESortedSet2.csproj", "{2B472992-CECA-456A-9A07-796ED3FFF258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComoColecoesHashComparamIgualdade", "ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade.csproj", "{77FCE846-1008-4A4F-B0DE-92F9C40F6705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComoColecoesHashComparamIgualdade", "ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade.csproj", "{77FCE846-1008-4A4F-B0DE-92F9C40F6705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvido", "ExercicioResolvido\ExercicioResolvido.csproj", "{A29828BE-5C86-44EA-977B-E332946F5FE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{77FCE846-1008-4A4F-B0DE-92F9C40F6705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FCE846-1008-4A4F-B0DE-92F9C40F6705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FCE846-1008-4A4F-B0DE-92F9C40F6705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29828BE-5C86-44EA-977B-E332946F5FE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
