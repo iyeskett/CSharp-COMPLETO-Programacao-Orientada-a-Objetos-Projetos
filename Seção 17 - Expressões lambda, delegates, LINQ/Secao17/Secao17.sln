@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparison", "Comparison\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramacaoFuncionalELambda", "ProgramacaoFuncionalELambda\ProgramacaoFuncionalELambda.csproj", "{3A9DFBFE-F92A-4717-8FD0-5C8EB36C09B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{4243D076-DF55-48CE-9882-DBECEDABF827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{4243D076-DF55-48CE-9882-DBECEDABF827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegate", "MulticastDelegate\MulticastDelegate.csproj", "{9EAC9DE8-3FE8-4D82-88CE-D24589B9C125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4243D076-DF55-48CE-9882-DBECEDABF827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4243D076-DF55-48CE-9882-DBECEDABF827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4243D076-DF55-48CE-9882-DBECEDABF827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAC9DE8-3FE8-4D82-88CE-D24589B9C125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAC9DE8-3FE8-4D82-88CE-D24589B9C125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAC9DE8-3FE8-4D82-88CE-D24589B9C125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAC9DE8-3FE8-4D82-88CE-D24589B9C125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
