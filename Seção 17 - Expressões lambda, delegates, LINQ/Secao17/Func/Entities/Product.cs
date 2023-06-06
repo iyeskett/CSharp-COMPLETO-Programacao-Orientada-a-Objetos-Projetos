@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Func.Entities
+namespace Action.Entities
 {
     internal class Product
     {
