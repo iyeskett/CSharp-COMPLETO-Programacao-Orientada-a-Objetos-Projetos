@@ -34,8 +34,8 @@ foreach (var p in people)
     Console.WriteLine(p);
 }
 
-var mSalary = 
+var mSalary =
     (from emp in employees
-    where emp.Name[0] == 'M'
-    select emp.Salary).Sum();
+     where emp.Name[0] == 'M'
+     select emp.Salary).Sum();
 Console.WriteLine($"Sum of salary of people whose name starts with 'M': {mSalary.ToString("F2", CultureInfo.InvariantCulture)}");
