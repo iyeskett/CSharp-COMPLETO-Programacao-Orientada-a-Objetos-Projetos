@@ -55,38 +55,10 @@ var r5 =
      select p).Skip(2).Take(4);
 Print("TIER 1 ORDER BY PRICE THEN BY NAME SKIP 2 TAKE 4:", r5);
 
-var r6 = products.FirstOrDefault();
-Console.WriteLine($"First or default test1: {r6}");
-
-var r7 = products.Where(p => p.Price > 3000);
-Console.WriteLine($"First or default test2: {r7.FirstOrDefault()}");
-
-var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
-Console.WriteLine($"Single or default test1: {r8}");
-
-var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
-Console.WriteLine($"Single or default test2: {r9}");
-
-var r10 = products.Max(p => p.Price);
-Console.WriteLine($"Max price: {r10}");
-
-var r11 = products.Min(p => p.Price);
-Console.WriteLine($"Min price: {r11}");
-
-var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
-Console.WriteLine($"Category 1 Sum prices: {r12}");
-
-var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
-Console.WriteLine($"Category 1 Avarage prices: {r13}");
-
-var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
-Console.WriteLine($"Category 5 Avarage prices: {r14}");
-
-var r15 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
-Console.WriteLine($"Category 5 aggregate sum:: {r15}");
-Console.WriteLine();
-
-var r16 = products.GroupBy(p => p.Category);
+//var r16 = products.GroupBy(p => p.Category);
+var r16 =
+    from p in products
+    group p by p.Category;
 foreach (var group in r16)
 {
     Console.WriteLine($"Category: {group.Key.Name}:");
