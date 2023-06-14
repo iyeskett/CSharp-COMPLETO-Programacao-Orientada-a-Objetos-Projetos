@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace SalesWebMvc.Services
 {
-    public class SellerServices
+    public class SellerService
     {
         private readonly SalesWebMvcContext _context;
 
-        public SellerServices(SalesWebMvcContext context)
+        public SellerService(SalesWebMvcContext context)
         {
             _context = context;
         }
@@ -23,7 +23,6 @@ namespace SalesWebMvc.Services
 
         public void Insert(Seller seller)
         {
-            seller.Department = _context.Department.First();
             _context.Add(seller);
             _context.SaveChanges();
         }
